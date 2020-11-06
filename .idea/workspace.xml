@@ -20,8 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a0f67aa-8a74-4582-abfc-110a08137395" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Projeto OO/Polimofismo/src/Modelo/Funcionario.php" beforeDir="false" afterPath="$PROJECT_DIR$/Projeto OO/Polimofismo/src/Modelo/Funcionario/Funcionario.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projeto OO/Polimofismo/src/Modelo/Pessoa.php" beforeDir="false" afterPath="$PROJECT_DIR$/Projeto OO/Polimofismo/src/Modelo/Pessoa.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Formacao_PHP_Alura.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Formacao_PHP_Alura.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projeto OO/Interface/autenticacao.php" beforeDir="false" afterPath="$PROJECT_DIR$/Projeto OO/Interface/autenticacao.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projeto OO/Interface/src/Modelo/Conta/Titular.php" beforeDir="false" afterPath="$PROJECT_DIR$/Projeto OO/Interface/src/Modelo/Conta/Titular.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projeto OO/Interface/src/Modelo/Endereco.php" beforeDir="false" afterPath="$PROJECT_DIR$/Projeto OO/Interface/src/Modelo/Endereco.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projeto OO/Interface/src/Modelo/Funcionario/Diretor.php" beforeDir="false" afterPath="$PROJECT_DIR$/Projeto OO/Interface/src/Modelo/Funcionario/Diretor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projeto OO/Interface/src/Modelo/Funcionario/Gerente.php" beforeDir="false" afterPath="$PROJECT_DIR$/Projeto OO/Interface/src/Modelo/Funcionario/Gerente.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projeto OO/Interface/src/Service/Autenticador.php" beforeDir="false" afterPath="$PROJECT_DIR$/Projeto OO/Interface/src/Service/Autenticador.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,10 +36,16 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings">
+    <pharConfigPath>$PROJECT_DIR$/PDO/composer.json</pharConfigPath>
     <execution />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/PDO/vendor/composer" />
+    </include_path>
   </component>
   <component name="ProjectId" id="1jpLrQnCJcWw3V0gnjvpAk5VbjU" />
   <component name="ProjectViewState">
@@ -49,6 +62,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Projeto OO/Interface/src/Modelo" />
       <recent name="$PROJECT_DIR$/Projeto OO/Interface" />
       <recent name="$PROJECT_DIR$/Projeto OO/Polimofismo/src/Modelo/Funcionario" />
     </key>
@@ -61,7 +75,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604496286311</updated>
-      <workItem from="1604496287411" duration="8224000" />
+      <workItem from="1604496287411" duration="8461000" />
+      <workItem from="1604599028912" duration="5332000" />
+      <workItem from="1604611107574" duration="398000" />
     </task>
     <servers />
   </component>
@@ -78,27 +94,28 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="786" y="220" key="#com.intellij.ide.util.MemberChooser" timestamp="1604517464289">
+    <state x="786" y="220" key="#com.intellij.ide.util.MemberChooser" timestamp="1604603411480">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state x="786" y="220" key="#com.intellij.ide.util.MemberChooser/65.24.1855.1056@65.24.1855.1056" timestamp="1604517464289" />
+    <state x="786" y="220" key="#com.intellij.ide.util.MemberChooser/65.24.1855.1056@65.24.1855.1056" timestamp="1604603411480" />
     <state x="780" y="297" key="FileChooserDialogImpl" timestamp="1604524781060">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
     <state x="780" y="297" key="FileChooserDialogImpl/65.24.1855.1056@65.24.1855.1056" timestamp="1604524781060" />
-    <state x="600" y="258" key="NewPhpClassDialog" timestamp="1604524811254">
+    <state x="600" y="258" key="NewPhpClassDialog" timestamp="1604599886357">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state x="600" y="258" key="NewPhpClassDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1604524811254" />
-    <state x="793" y="464" key="NewPhpFileDialog" timestamp="1604525243747">
+    <state x="600" y="258" key="NewPhpClassDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1604599886357" />
+    <state x="793" y="464" key="NewPhpFileDialog" timestamp="1604602014852">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state x="793" y="464" key="NewPhpFileDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1604525243747" />
-    <state x="656" y="246" width="672" height="677" key="run.anything.popup" timestamp="1604517458473">
+    <state x="793" y="464" key="NewPhpFileDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1604602014852" />
+    <state x="656" y="246" width="672" height="677" key="run.anything.popup" timestamp="1604603559687">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state x="656" y="246" width="672" height="677" key="run.anything.popup/65.24.1855.1056@65.24.1855.1056" timestamp="1604517458473" />
+    <state x="656" y="246" width="672" height="677" key="run.anything.popup/65.24.1855.1056@65.24.1855.1056" timestamp="1604603559687" />
   </component>
 </project>
